@@ -1,0 +1,4 @@
+comparison,students,mean_change,median_change,min_change,max_change,increased,unchanged,decreased,increased_pct,unchanged_pct,decreased_pct
+G1_to_G2,395,-0.194937,0.000000,-12,4,128,117,150,32.405063,29.620253,37.974684
+G2_to_G3,395,-0.298734,0.000000,-10,3,111,194,90,28.101266,49.113924,22.784810
+G1_to_G3,395,-0.493671,0.000000,-12,4,143,93,159,36.202532,23.544304,40.253165
